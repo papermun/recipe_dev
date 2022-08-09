@@ -1,0 +1,26 @@
+div {
+background-color: aquamarine;
+}
+
+#pid{
+    background-color: blue;
+}
+
+.h1class{
+    background-color: chartreuse;
+}
+
+div.divclass {
+    background-color: darkgreen;
+}
+
+#divid{
+    background-color: blueviolet;
+}
+
+.h2class,  .h2class_2
+{
+    background-color: deeppink;
+    color: aqua;
+}
+
