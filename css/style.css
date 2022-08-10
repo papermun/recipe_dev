@@ -24,3 +24,51 @@ div.divclass {
     color: aqua;
 }
 
+.preview
+{
+    background-color: brown;
+}
+
+.a
+{
+    background-color: azure;
+}
+
+.b
+{
+    background-color: bisque;
+}
+
+.b.c
+{
+    background-color: darkgoldenrod;
+}
+
+.b.a
+{
+    background-color: blueviolet;
+}
+
+.a.b.c
+{
+    background-color:hotpink;
+}
+
+.b.a
+{
+    background-color: blue;
+}
+
+.b.c
+{
+    background-color: chartreuse;
+}
+
+.trinity .limits .form
+{
+    background-color: gold;
+}
+
+.form
+{background-color: brown;}
+
