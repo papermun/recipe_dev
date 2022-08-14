@@ -1,0 +1,37 @@
+.MR{
+    text-align: center;
+    background-color: crimson;
+}
+
+.FR{
+    text-align: end;
+    background-color: deepskyblue;
+}
+
+.MR.TC
+{
+    color: darkorange;
+    background-color: darkred;
+    font-size: 30px;
+}
+
+.MR.NA
+{
+    color: gold;
+    background-color: orangered;
+    font-weight: 900;
+}
+
+.FR.TC
+{
+    color: lime;
+    background-color: dodgerblue;
+    font-size: 30px;
+}
+
+.FR .NA
+{
+    color: chartreuse;
+    background-color: blueviolet;
+    font-weight: 1000;
+}
